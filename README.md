@@ -1,2 +1,2 @@
-# projects
-Academic projects
+# Academic projects
+...
